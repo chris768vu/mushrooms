@@ -1,1 +1,1 @@
-Is your mushroom poisonous or edible (assuming you are not willing to eat poisonous mushrooms)?
+Is your mushroom poisonous or edible (given you are not willing to eat poisonous mushrooms)?
